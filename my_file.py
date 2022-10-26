@@ -1,2 +1,1 @@
-print('Hi Git')
-print()
+5+5
